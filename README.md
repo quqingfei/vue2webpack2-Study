@@ -1,6 +1,6 @@
 # sell
 
-> A Vue.js project
+> a webpack2 and vue2 + vue-router2 + stylus it use vue-cli to webpack build
 
 ## Build Setup
 
